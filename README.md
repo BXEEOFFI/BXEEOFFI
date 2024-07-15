@@ -10,6 +10,7 @@
 🎓I'm doing the 42 school's swimming pool.
 
 ## 💻 Languages
+- Typescript
 - Javascript
 - C#
 - Lua
