@@ -3,11 +3,7 @@
 
 🔭 I’m currently working for 💎 Diamond City RP
 
-🌱 I’m currently learning C language
-
 😄 Pronouns: he/him
-
-🎓I'm doing the 42 school's swimming pool.
 
 ## 💻 Languages
 - Typescript
